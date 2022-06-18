@@ -1,3 +1,10 @@
+# Predictive Performance: Statistical Model
+
+Created confusion matrix with 88 fraudulent records and 952 non-fraudulent records by producing predicted and actual values, and 
+
+Interpreted error rates, sensitivity and specificity for each cut-off value of 0.25, 0.5 and 0.75 using statistical model and evaluated decile chart to test the model’s ability to predict the intended outcome using Classification Summary
+
+
 # Machine-Learning - Classification and Regression Trees
 
 
