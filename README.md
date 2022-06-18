@@ -1,5 +1,5 @@
-# Machine-Learning
-Classification and Regression Trees
+# Machine-Learning - Classification and Regression Trees
+
 
 A data mining routine has been applied to the transaction dataset and has classified 88 records as fraudulent (30 correctly so) and
 952 as non-fraudulent (920 correctly so), so constructed the confusion matrix and calculated the overall error rate.
